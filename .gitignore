@@ -1,5 +1,3 @@
-audio_*
-*.ogg
-*.wav
-*.mp3
+og.html
 .firecrawl/
+.DS_Store
