@@ -1,0 +1,5 @@
+audio_*
+*.ogg
+*.wav
+*.mp3
+.firecrawl/
